@@ -1,0 +1,15 @@
+{
+  "name": "genpark-constraint-satisfaction-ac3-backtracking-skill",
+  "version": "1.0.0",
+  "description": "Constraint Satisfaction Problem (CSP) solver with AC-3 and MRV search.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "csp",
+    "ac3",
+    "arc-consistency",
+    "backtracking-search",
+    "agentic-ai"
+  ]
+}
